@@ -1,0 +1,11 @@
+streamlit>=1.36,<2
+fastapi>=0.110,<1
+uvicorn[standard]>=0.29,<1
+python-multipart>=0.0.9
+pypdf>=4.2,<6
+scikit-learn>=1.4,<2
+numpy>=1.26,<3
+pydantic>=2.6,<3
+python-dotenv>=1.0,<2
+openai>=1.30,<3
+pytest>=8,<9

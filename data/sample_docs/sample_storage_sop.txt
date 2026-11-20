@@ -1,0 +1,21 @@
+SYNTHETIC TRAINING DOCUMENT — NOT AN APPROVED STANDARD OPERATING PROCEDURE
+
+Document title: Example Material Storage and Handling SOP
+Document ID: SYN-SOP-001
+Version: 1.0
+Effective date: 01 January 2026
+
+1. Purpose
+This synthetic document demonstrates document ingestion and retrieval for a pharmaceutical knowledge assistant. It is not an actual pharmaceutical quality procedure.
+
+2. Storage conditions
+For this fictional training example only, the sample material should be stored in a monitored temperature-controlled area between 2°C and 8°C. Temperature readings should be recorded according to the fictional site's approved monitoring schedule.
+
+3. Excursion handling
+If a temperature reading falls outside the example range, the operator should record the event and notify the designated quality representative. The material should be placed on hold pending review. This example does not define real-world disposition criteria.
+
+4. Documentation
+Records should include the date, time, equipment identifier, observed temperature, operator initials and review outcome. Entries should be legible and traceable.
+
+5. Training note
+Always follow the current, approved procedures of the relevant organization. This synthetic sample must not be used to make operational or patient-care decisions.
